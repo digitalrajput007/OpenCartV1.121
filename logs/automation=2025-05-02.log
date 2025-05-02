@@ -1,0 +1,51 @@
+17:42:22:22.791 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount
+17:42:23:23.496 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+17:42:23:23.499 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+17:42:26:26.073 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+17:43:55:55.387 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sbiet\eclipse-workspace\Youtube_Testing\OpenCartV1.121\testng.xml"
+17:43:55:55.761 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sbiet\eclipse-workspace\Youtube_Testing\OpenCartV1.121\testng.xml
+
+17:45:28:28.565 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest****
+17:45:28:28.842 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount
+17:45:29:29.528 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+17:45:29:29.531 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+17:45:31:31.660 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+17:47:01:01.537 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest****
+17:47:01:01.760 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount
+17:47:02:02.603 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+17:47:02:02.606 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+17:47:04:04.786 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+12:38:28:28.656 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sbiet\eclipse-workspace\Youtube_Testing\OpenCartV1.121\testng.xml"
+12:40:17:17.815 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sbiet\eclipse-workspace\Youtube_Testing\OpenCartV1.121\testng.xml"
+12:40:18:18.070 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sbiet\eclipse-workspace\Youtube_Testing\OpenCartV1.121\testng.xml
+
+12:41:55:55.787 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sbiet\eclipse-workspace\Youtube_Testing\OpenCartV1.121\testng.xml"
+12:41:56:56.034 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sbiet\eclipse-workspace\Youtube_Testing\OpenCartV1.121\testng.xml
+
+12:42:02:02.297 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest****
+12:42:02:02.590 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount
+12:42:03:03.130 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+12:42:03:03.132 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:42:04:04.551 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+12:42:10:10.769 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest****
+12:42:10:10.908 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount
+12:42:11:11.527 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+12:42:11:11.528 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:42:13:13.050 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+12:42:25:25.651 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sbiet\eclipse-workspace\Youtube_Testing\OpenCartV1.121\testng.xml"
+12:43:16:16.553 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sbiet\eclipse-workspace\Youtube_Testing\OpenCartV1.121\testng.xml"
+12:45:04:04.351 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sbiet\eclipse-workspace\Youtube_Testing\OpenCartV1.121\testng.xml"
+12:45:14:14.406 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sbiet\eclipse-workspace\Youtube_Testing\OpenCartV1.121\testng.xml"
+12:48:13:13.727 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sbiet\eclipse-workspace\Youtube_Testing\OpenCartV1.121\testng.xml"
+12:48:18:18.931 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest****
+12:48:19:19.212 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount
+12:48:19:19.700 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+12:48:19:19.701 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:48:21:21.008 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+12:48:26:26.489 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest****
+12:48:26:26.671 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount
+12:48:27:27.264 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+12:48:27:27.265 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details

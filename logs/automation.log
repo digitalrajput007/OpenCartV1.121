@@ -1,0 +1,23 @@
+12:48:28:28.759 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+12:50:42:42.872 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sbiet\eclipse-workspace\Youtube_Testing\OpenCartV1.121\testng.xml"
+12:50:48:48.376 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest****
+12:50:48:48.723 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount
+12:50:49:49.513 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+12:50:49:49.516 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:50:51:51.112 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+12:50:56:56.889 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest****
+12:50:57:57.069 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount
+12:50:57:57.671 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+12:50:57:57.672 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:50:58:58.497 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+12:51:25:25.007 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sbiet\eclipse-workspace\Youtube_Testing\OpenCartV1.121\testng.xml"
+12:51:31:31.010 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest****
+12:51:31:31.325 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount
+12:51:31:31.830 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+12:51:31:31.831 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:51:33:33.156 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+12:51:38:38.237 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest****
+12:51:38:38.466 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount
+12:51:39:39.046 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+12:51:39:39.047 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:51:40:40.699 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message

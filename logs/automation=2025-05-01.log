@@ -1,0 +1,5 @@
+17:42:21:21.500 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sbiet\eclipse-workspace\Youtube_Testing\OpenCartV1.121\testng.xml"
+17:42:21:21.958 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sbiet\eclipse-workspace\Youtube_Testing\OpenCartV1.121\testng.xml
+
+17:42:22:22.535 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest****
